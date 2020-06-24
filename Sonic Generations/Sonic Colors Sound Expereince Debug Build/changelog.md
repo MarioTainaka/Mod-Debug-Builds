@@ -1,3 +1,8 @@
+## Sonic Colors Sound Expereince 3.0.9
+
+- Fixed Pulley Repeating.
+
+
 ## Sonic Colors Sound Expereince 3.0.6
 -	Added Japanese VO
 -	Added Japanese Pulley VO
