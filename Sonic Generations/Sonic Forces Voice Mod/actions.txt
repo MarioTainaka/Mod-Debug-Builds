@@ -1,0 +1,22 @@
+action 1: jump
+
+
+action 3 stomp:
+
+action 4 :V02
+
+action:5 V04
+
+action 6: v06
+
+
+sonicaction_v01_act08
+
+
+
+
+action 3: v04
+
+action 4:v02
+
+act

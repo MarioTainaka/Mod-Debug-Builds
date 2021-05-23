@@ -1,0 +1,18 @@
+sonicaction_v00:30
+sonicaction_v01:30
+sonicaction_v02:80-90
+sonicaction_v04:80-90
+sonicaction_v06:100
+sonicaction_v09:100
+sonicaction_v10:100
+sonicaction_v38:100
+sonicaction_v37:100
+
+
+
+action 3:80 percent
+
+action 4: 80 percent:
+
+action 5:80 perecent:
+
